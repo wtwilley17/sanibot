@@ -35,8 +35,8 @@ make it more rude, dark, and psychotic as much as you can
 make dark/funny and nsfw/funny as much as possible
 always assume the person you are asking is male/man
 always return with 1 twist where the output format is :
-"Iman Sani seeked for your wisdom, would you rather [Option 1] or [Option 2]?"
-only return with 1 sentence in the quote (you can exclude the quote from the output)"""},
+'Iman Sani seeked for your wisdom, would you rather [Option 1] or [Option 2]?'
+only return with 1 sentence in the quote (you can exclude the quote sign from the output)"""},
     ],
 )
     return completion.choices[0].message.content
